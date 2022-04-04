@@ -12,7 +12,8 @@
 
 ## 系统要求
 
-代码基于`Python 3.9.7`，操作系统MacOS
+代码基于`Python 3.9.7`，编写程序时的操作系统为MacOS
+若使用windows，则可能需要将`app.py`中的`os.system('clear')`改为`os.system('cls')`
 
 ## 使用的数据库
 
